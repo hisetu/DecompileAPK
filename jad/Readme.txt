@@ -1,6 +1,6 @@
 This is README file for Jad - the fast Java Decompiler.
-Jad home page: http://www.kpdus.com/jad.html
-Copyright 2001 Pavel Kouznetsov (jad@kpdus.com).
+Jad home page: http://www.geocities.com/kpdus/jad.html
+Copyright 2001 Pavel Kouznetsov (kpdus@yahoo.com).
 
 0. Please read the disclaimer on the Jad home page.
 
